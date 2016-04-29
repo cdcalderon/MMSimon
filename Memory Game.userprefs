@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/1 - Puzzle Menu Controller Scripts/SettingsController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/1 - Puzzle Menu Controller Scripts/SettingsController.cs" Line="20" Column="52" />
+      <File FileName="Assets/Scripts/5 - Puzzle Music Controller/MusicController.cs" Line="55" Column="27" />
+      <File FileName="Assets/Scripts/4 - Puzzle Game Saver/PuzzleGameSaver.cs" Line="88" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
